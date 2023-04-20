@@ -1,0 +1,29 @@
+_repo: The-music-of-the-spheres-b-A-nature-lover-s-astronomy_70382
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grondal, Florence Armstrong
+    gutenberg_agent_id: '55739'
+    url: http://www.gutenberg.org/2009/agents/55739
+description: ''
+gutenberg_issued: '2023-03-26'
+identifiers:
+  gutenberg: '70382'
+  lccn: '26011244'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/001475858
+pgterms:marc905: 20221016014059grondal
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: '  $aUnited States :$bThe Macmillan Company, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy'
+- !lcc 'QB'
+- GITenberg
+title: 'The music of the spheres : $b A nature lover''s astronomy'
+url: http://www.gutenberg.org/ebooks/70382
