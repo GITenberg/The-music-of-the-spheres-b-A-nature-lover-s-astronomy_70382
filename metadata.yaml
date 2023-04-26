@@ -1,11 +1,16 @@
 _repo: The-music-of-the-spheres-b-A-nature-lover-s-astronomy_70382
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70382-h/images/cover.jpg
 creator:
   author:
     agent_name: Grondal, Florence Armstrong
     gutenberg_agent_id: '55739'
     url: http://www.gutenberg.org/2009/agents/55739
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70382#The-music-of-the-spheres-b-A-nature-lover-s-astronomy
 gutenberg_issued: '2023-03-26'
 identifiers:
   gutenberg: '70382'
